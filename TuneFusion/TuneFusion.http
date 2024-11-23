@@ -1,0 +1,6 @@
+@TuneFusion_HostAddress = http://localhost:5001
+
+GET {{TuneFusion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
