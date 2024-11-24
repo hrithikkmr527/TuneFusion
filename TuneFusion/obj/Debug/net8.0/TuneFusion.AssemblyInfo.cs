@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuneFusion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0793926de8c68c6375afca1cdec4b8b894402a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+271fc74016fb52bb121449e128315248e69c9cb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuneFusion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuneFusion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

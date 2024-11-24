@@ -52,7 +52,7 @@ out/
 
 *.class
 
-
+*.AssemblyInfo*
 
 # Node modules (if using Node.js for frontend)
 
